@@ -4,4 +4,4 @@ A Color Palette Generator developed in HTML, CSS and JavaScript. Makes use of Lo
 
 Note :- files in Master branch
 
-[Visit the Website here :- ](https://aryaman-pandey.github.io/coloors/)
+[Visit the Website here :- ](https://aryaman-pandey.github.io/color-palette-generator/)
